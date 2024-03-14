@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.34607.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "FetchFreeProxy", "FetchFreeProxy.pyproj", "{A7E4332D-BC74-4187-ABEE-63F84E5EBD4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7E4332D-BC74-4187-ABEE-63F84E5EBD4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7E4332D-BC74-4187-ABEE-63F84E5EBD4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35A4E982-D018-4376-89B9-77C8B5ABF18E}
+	EndGlobalSection
+EndGlobal
